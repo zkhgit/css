@@ -1,2 +1,2 @@
 # css
-样式表练习
+[CSS选择器]http://www.w3school.com.cn/cssref/css_selectors.asp
